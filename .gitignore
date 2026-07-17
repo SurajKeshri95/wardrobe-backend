@@ -1,0 +1,9 @@
+# Ignore the virtual environment
+venv/
+
+# Ignore the temporary image folder we made for the AI
+temp/
+
+# Ignore Python cache files
+__pycache__/
+*.pyc
